@@ -1,4 +1,4 @@
-# [영향 요인 분석] RuleFit 기반 설명가능 AI를 통한 MZ세대 공무원의 이직의도 분석
+# [영향 요인 분석] RuleFit 기반 설명가능 AI를 통한 MZ세대 공무원의 이직의도 분석 👉 [PPT](https://github.com/novicedata/Conference/blob/main/RuleFit_MZ_Turnover/source/%5B2025_KSPMA%5D%20%EA%B5%AC%EB%91%90%EB%B0%9C%ED%91%9C_%EC%8B%A0%EC%97%B0%EC%9A%B0.pdf)
 
 ## 목차
 
